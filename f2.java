@@ -1,14 +1,8 @@
-import java.lang.*;
-public class file1
-{ 
-int a = 1600;
-int b= 2000;
-public void add()
+import java.lang.*
+public class f2
 {
-System.out.println("sum is :" a+b);
- 
-}
-
+  int a =10;
+  
 public static void main(String args[])
 {
 System.out.println("hello");
